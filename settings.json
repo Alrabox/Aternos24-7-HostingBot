@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Alrabox21.aternos.me",
+    "ip": "Alrabox21.aternos.me:47952",
     "port": 47952,
     "version": "",
     "try-creative": false
